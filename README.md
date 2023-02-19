@@ -3,11 +3,14 @@
   <a href="https://www.linkedin.com/in/nada-usama/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
-  A Computer Science graduate who studies Web Development Track, After graduation I joined ITI 3-month intensive program as a Full Stack Development student with PHP/laravel, then I joined NTI and studied NodeJs and Angular track.<br/><br/>
+  I graduated from the faculty of computer science with 3.1 GPA then I joined ITI and NTI as a full stack development student. Currently I am working as a software engineer intern at Huawei.<br/><br/>
   
-🌱 I am currently looking for an internship or a part/full-time position<br/>
 📫 How to reach me: **nada.usama.ahmed@gmail.com**
 
+<h2>My Experience</h2>
+<ul>
+  <li><h4>Huawei, Software Engineering Internship</h4>Nov 2022 - Present</li>
+</ul>
 <h2>My Skills</h2>
 <ul>
 <li><h4>Front-end</h4></li>
