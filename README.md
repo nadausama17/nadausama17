@@ -21,7 +21,7 @@
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" width="100" height="80" alt="javascript"></span>
 <span><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" width="100" height="80" alt="bootstrap"></span>
 <span><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" title="Angular" width="100" height="80" alt="angular"></span>
-<span><img src="[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)" title="React" width="100" height="80" alt="react"></span>
+<span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" width="100" height="80" alt="react"></span>
 
 <li><h4>Back-end</h4></li>
 
